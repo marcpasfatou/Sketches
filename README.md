@@ -1,2 +1,3 @@
-##Sketches
- This repo contains my experiments in generative art.
+# Sketches
+ 
+This repo contains my experiments in generative art.
